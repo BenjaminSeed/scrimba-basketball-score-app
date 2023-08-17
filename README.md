@@ -17,7 +17,7 @@ A simple basketball counter app built using HTML, CSS, and JavaScript. This app 
 
 ## Demo
 
-You can check out a live demo of the app [here]([https://your-demo-link.com](https://inspiring-sprinkles-6c9194.netlify.app)).
+You can check out a live demo of the app [here](https://inspiring-sprinkles-6c9194.netlify.app).
 
 ---
 
